@@ -13,7 +13,7 @@ This code book that describes the variables, the data, and any transformations o
  4.   Appropriately labels the data set with descriptive activity names. 
  5.   Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
  
- Feature Variables:
+Feature Variables:
  1.  std()  : standard deviation of multiple measurements of the original variables 
  2.  mean() : mean values of multiple measurements of the original variables
  3.  subject_id : identifier, identify each subject
