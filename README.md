@@ -9,7 +9,7 @@ download.data()
 run.analysis()
 In the case the Samsung data is already unzipped and directory with the dataset is available as  UCI HAR Dataset  subdirectory of the current directory, the processing function  run.analysis()  can be called straight away.
 
-PROCESS STEPS
+Process Steps:
  1.When sourced, the script chechs if the required R packages are available and proceeds to install them if they are not found
  2.Calling download.data() downloads the zipped dataset and unarchives it.
  3.Calling run.analysis() starts the actual data processing: 
