@@ -2,7 +2,9 @@ CodeBook to clean up the data
 
 Data Source
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+      http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+the data for the project:
+      http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 This code book that describes the variables, the data, and any transformations or work that you performed to clean up the data:
  1.   Merges the training and the test sets to create one data set.
