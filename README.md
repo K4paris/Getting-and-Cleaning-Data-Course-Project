@@ -13,7 +13,7 @@ Process Steps:
 
  1.When sourced, the script chechs if the required R packages are available and proceeds to install them if they are not found
  
- 2.Calling download.data() downloads the zipped dataset and unarchives it.
+ 2.Calling download.data() downloads the zipped dataset.
  
  3.Calling run.analysis() starts the actual data processing: 
  
