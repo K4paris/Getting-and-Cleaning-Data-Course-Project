@@ -14,9 +14,9 @@ In the case the Samsung data is already unzipped and directory with the dataset 
  2.Calling download.data() downloads the zipped dataset and unarchives it.
  3.Calling run.analysis() starts the actual data processing: 
   3.1.  Feature vector label data is loaded from  features.txt 
-  3.2.  Using regex with grepl, subset of label data for selecting desired data coluns is created. 
+  3.2.  Using regex with grepl, subset of label data for selecting desired data column is created. 
   3.3.  Activity labels are loaded from  features.txt 
-  3.4.  Activity labels (id->label) and selected features (id->label) are given as parameters to function which loads the training or test dataset, based on the type value given also as a parameter. a.Paths to data files are created based on type parameter
+  3.4.  Activity labels (id->label) and selected features (id->label) are given as parameters to function which loads the training or test dataset, based on the type value given also as a parameter. 
       3.4.1.  Data files are loaded. Feature vector data is filtered using ids of the selected features.
       3.4.2   Activity and subject id data are loaded
       3.4.3.  Feature vector data is renamed using the names of selected features
