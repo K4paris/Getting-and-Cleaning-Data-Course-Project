@@ -1,6 +1,6 @@
 Repository for Getting and Cleaning Data Course Project.
 
-run_analysis.R
+run_analysis.R
 
 When sourced, the script displays instuctions for running data download and processing functions. The script checks if the required R packages are installed and tries to install them if previous installation is not found.
 
